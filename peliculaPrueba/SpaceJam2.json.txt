@@ -1,0 +1,12 @@
+[
+  {
+    "idPelicula": 24,
+    "titulo": "SPACE JAM 2",
+    "idGenero": 0,
+    "sinopsis": “Durante un viaje a los Warner Bros. Studios, la superestrella de la NBA LeBron James y su hijo quedan atrapados accidentalmente en un mundo que contiene todas las historias y personajes de Warner Bros., bajo el control de una fuerza todopoderosa y defectuosa que se llama AI G (interpretado por Don Cheadle). Con la ayuda de Bugs Bunny, Lebron debe navegar a través de un mundo nunca antes imaginado, lleno de escenas y personajes icónicos de películas mientras recluta a los Looney Tunes para rescatar a su hijo perdido. Ahora, para volver a casa, LeBron y los Tunes tienen que desentrañar el misterioso plan de AI G y ganar un partido de baloncesto épico contra superversiones gamificadas digitales de las mayores estrellas de la NBA y la WNBA mientras todo el mundo observa”,
+    "valoracion": 5,
+    "duracion": 130,
+    "imagen": "SPACE_JAM_2.png",
+    "video": "SPACE_JAM_2.mp4"
+  }
+]
